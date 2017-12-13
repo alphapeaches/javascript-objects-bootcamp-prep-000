@@ -6,6 +6,6 @@ var playlist = {'Ed Sheeran': "Thinking Out Loud"};
 }
 
 //function removeFromPlaylist(playlist, artistName, songTitle){
-  delete playlist.artistName;
-  return playlist;
+  //delete playlist.artistName;
+  //return playlist;
 }
