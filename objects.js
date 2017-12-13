@@ -1,7 +1,7 @@
 var playlist = {'Ed Sheeran': "Thinking Out Loud"};
 
-function updatePlaylist(artistName, songTitle){
- playlist.[artistName] = [songTitle];
+function updatePlaylist(playlist,artistName, songTitle){
+ playlist.artistName = songTitle;
   return playlist;
 }
 
